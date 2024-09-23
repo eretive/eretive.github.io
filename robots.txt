@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eretive.github.io/sitemap.html.gz
+Sitemap: https://eretive.github.io/app/sitemap.html.gz
+Sitemap: https://eretive.github.io/assets/sitemap.html.gz
+Sitemap: https://eretive.github.io/css/sitemap.html.gz
+Sitemap: https://eretive.github.io/data/sitemap.html.gz
+Sitemap: https://eretive.github.io/includes/sitemap.html.gz
+Sitemap: https://eretive.github.io/item/sitemap.html.gz
+Sitemap: https://eretive.github.io/src/sitemap.html.gz
